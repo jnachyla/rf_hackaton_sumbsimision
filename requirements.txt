@@ -1,0 +1,9 @@
+numpy
+gym==0.21.0
+tqdm==4.32.2
+keras
+tensorflow==2.8.2
+matplotlib
+stable-baselines3
+box2d-py
+
